@@ -2,7 +2,7 @@
   "name": "@micro-js/is-array",
   "description": "Functional version of Array.isArray",
   "repository": "git://github.com/micro-js/is-array.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
