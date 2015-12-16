@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/is-array",
+  "name": "@f/is-array",
   "description": "Functional version of Array.isArray",
   "repository": "git://github.com/micro-js/is-array.git",
   "version": "1.0.0",
